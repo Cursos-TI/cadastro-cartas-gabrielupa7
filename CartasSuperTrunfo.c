@@ -115,9 +115,6 @@ int main() {
     printf("Numero de Pontos Turisticos: %d\n", pontos2);
     printf("====================\n");
 
-    // Pausa para quem usar duplo-clique no .exe
-    printf("\nPressione ENTER para sair...");
-    fgets(line, sizeof(line), stdin);
 
     return 0;
 }
